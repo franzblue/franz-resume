@@ -7,6 +7,7 @@ color: darkblue;
 text-align: center;
 background-color: black;
 }
-h2 {color: limegreen;
+h2 {color: lightgreen;
 font-size: 42px;
+text-decoration: underline black;
 }
