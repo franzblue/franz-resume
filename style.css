@@ -26,7 +26,8 @@ font-size: 23px
 }
 #awards {
 color: white;
-font-size: 23px
+font-size: 23px;
+text-align: left;
 }
 #contact {
 text-align: center;
