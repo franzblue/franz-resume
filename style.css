@@ -24,11 +24,6 @@ font-size: 23px;
 ul {
 font-size: 23px
 }
-#awards {
-color: white;
-font-size: 23px;
-text-align: left;
-}
 #contact {
 text-align: center;
 display: block;
@@ -39,5 +34,5 @@ font-style: italic;
 font-size: 23px;
 }
 #dates {
-vertical-align: text-top;
+text-align: right;
 }
