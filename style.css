@@ -14,4 +14,6 @@ text-decoration: underline black;
 h4 {
 font-style: italic;
 }
-
+#contact {
+display: block;
+}
