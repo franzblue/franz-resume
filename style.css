@@ -19,6 +19,12 @@ h4 {
 font-style: italic;
 font-size: 23px;
 }
+ul {
+font-size: 23px
+}
+#awards {
+font-size: 23px
+}
 #contact {
 display: block;
 font-size: 23px;
@@ -26,8 +32,5 @@ text-align: center;
 }
 #definition {
 font-style: italic;
-font-size: 23px;
-}
-ul {
 font-size: 23px;
 }
