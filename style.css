@@ -11,6 +11,9 @@ color: limegreen;
 font-size: 33px;
 text-decoration: underline black;
 }
+h3 {
+font-size: 23px;
+}
 h4 {
 font-style: italic;
 }
@@ -18,4 +21,8 @@ font-style: italic;
 display: block;
 font-size: 23px;
 text-align: center;
+}
+#defintion {
+font-style: italic;
+font-size: 23px;
 }
