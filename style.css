@@ -4,7 +4,6 @@ background-size: cover;
 }
 h1 {
 font-size: 69px;
-text-align: center;
 }
 h2 {
 margin-left: 108px;
@@ -28,7 +27,6 @@ font-size: 23px
 #contact {
 display: block;
 font-size: 23px;
-text-align: center;
 }
 #definition {
 font-style: italic;
