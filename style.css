@@ -5,6 +5,7 @@ background-size: cover;
 h1 {
 color: darkgray;
 font-size: 69px;
+text-align: center;
 }
 h2 {
 margin-left: 108px;
@@ -27,6 +28,7 @@ font-size: 23px
 font-size: 23px
 }
 #contact {
+text-align: center;
 display: block;
 font-size: 23px;
 }
