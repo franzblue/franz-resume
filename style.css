@@ -28,10 +28,10 @@ font-size: 23px;
 margin-left: 108px;
 }
 #contact {
-
 text-align: center;
 display: block;
-font-size: 23px;
+font-size: 20px;
+line-height: 69%;
 }
 #definition {
 font-style: italic;
